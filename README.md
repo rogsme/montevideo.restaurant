@@ -37,7 +37,7 @@ por otros restaurantes.
 
 ### Imagenes
 
-Las imagenes van en `/pix`.
+Las imagenes van en `/static/pix`.
 
 Cada restaurante debe tener una imagen al inicio y quiza imagenes extra para el 
 menu en caso de que sea necesario.
@@ -47,13 +47,14 @@ o tomadas por ti mismo.
 
 Las imagenes deben tener formato `.webp` con el menor tamaño posible. Por 
 ejemplo, si vas a agregar una imagen para `mcdonalds.md`, debe ser agregada como
-`pix/mcdonalds.webp`.
+`/static/pix/mcdonalds.webp`.
 
 Si deseas agregar imagenes para el menu, deben llevar el siguiente formato:
-`pix/mcdonalds-menu-01.webp`, etc.
+`/static/pix/mcdonalds-menu-01.webp`, etc.
 
-Ten en cuenta que todas las imagenes deben tener links empezando con un slash,
-por ejemplo `/pix/...`.
+Ten en cuenta que para agregar imagenes a tus posts, debes agregarlas sin el 
+`/static/`. Ademas, todas las imagenes deben tener links empezando con un slash,
+por ejemplo `/pix/mcdonalds.webp`.
 
 ## Licencia
 

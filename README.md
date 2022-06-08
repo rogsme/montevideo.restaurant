@@ -13,7 +13,7 @@ Todo el proyecto es un fork de
 [based.cooking](https://based.cooking).
 Si quieren donar al proyecto, pueden hacerlo directamente en su pagina web o
 en los links de donaciones en nuestra web
-[https://montevideo.restaurant](https://montevideo.restaurant)
+[https://montevideo.restaurant](https://montevideo.restaurant).
 
 ## Maneras de contribuir
 
@@ -52,7 +52,7 @@ Cada restaurante debe tener una imagen al inicio y quiza imagenes extra para el
 menu en caso de que sea necesario.
 
 Puedes añadir imagenes de Google, pero preferiblemente que sean de la pagina web
-o tomadas por ti mismo.
+del restaurante o tomadas por ti mismo.
 
 Las imagenes deben tener formato `.webp` con el menor tamaño posible. Por 
 ejemplo, si vas a agregar una imagen para `mcdonalds.md`, debe ser agregada como
@@ -70,5 +70,5 @@ por ejemplo `/pix/mcdonalds.webp`.
 Todo este website y su contenido forman parte del dominio publico.
 Al agregar texto, imagenes o lo que fuera a este repositorio, renuncias a 
 cualquier pretension de propiedad sobre el, aunque eres bienvenido y te 
-recomendamos que te des creditos en la parte inferior de tu agregado (incluyendo 
-links personales y/o de donaciones)
+recomendamos que te des creditos en la parte inferior del restaurante que hayas
+agregado (incluyendo links personales y/o de donaciones)

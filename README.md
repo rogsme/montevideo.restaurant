@@ -6,6 +6,15 @@ Esta es una pagina web simple de restaurantes en Montevideo.
 No tiene publicidades, trackers, cookies o JavaScript (Solo en el buscador de
 restaurantes).
 
+## Nota
+
+Todo el proyecto es un fork de
+[LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) /
+[based.cooking](https://based.cooking).
+Si quieren donar al proyecto, pueden hacerlo directamente en su pagina web o
+en los links de donaciones en nuestra web
+[https://montevideo.restaurant](https://montevideo.restaurant)
+
 ## Maneras de contribuir
 
 - Agregando un restaurante.

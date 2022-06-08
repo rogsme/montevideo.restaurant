@@ -70,14 +70,18 @@ document.addEventListener('DOMContentLoaded', () => {
 
 Este sitio es un fork de [based.cooking](https://based.cooking). 
 
-montevideo.restaurant fue creado porque no queria usar Rappi o PedidosYa. Ambas aplicaciones son pesadas, molestas, tienen miles de trackers y la mayoria del tiempo ni siquiera funcionan bien.
+montevideo.restaurant fue creado porque no queria usar Rappi o PedidosYa. Ambas aplicaciones son pesadas, molestas, tienen miles de trackers y la mayoria del tiempo ni siquiera funcionan bien
 
-Todo este sitio esta hecho con HTML y CSS, nada de JavaScript (solo el campo de búsqueda), nada de trackers, nada de publicidades.
+Todo este sitio esta hecho con HTML y CSS, nada de JavaScript (solo el campo de búsqueda), nada de trackers, nada de publicidades, nada de cookies.
+
+## ¿Quieres agregar nuevos restaurantes?
+
+Principalmente, hay dos maneras de agregar nuevos restaurantes:
+- 👨‍💻️ Puedes ir directamente [a Github](https://github.com/Rogergonzalez21/montevideo.restaurant), forkear el repositorio y abrir un PR nuevo (asegurate de haber leido las [reglas para agregar restaurantes](https://github.com/Rogergonzalez21/montevideo.restaurant#reglas-para-agregar-restaurantes))
+- 👨‍🍳️ O puedes enviarme un correo a restaurantes@rogs.me con la informacion de tu restaurante (preferiblemente en el [formato correcto](https://raw.githubusercontent.com/Rogergonzalez21/montevideo.restaurant/master/example.md))
 
 ## ¡Contribuir es muy fácil!
 
-Puedes agregar nuevos restaurantes [en Github](https://github.com/Rogergonzalez21/montevideo.restaurant).
-
-Esta pagina se mantiene gracias a ti, no a 20MB de publicidades y/o trackers que violan tu privacidad.
+Esta web se mantiene gracias a ti, no a 20MB de publicidades y trackers por página que violan tu privacidad.
 
 {{< crypto >}}

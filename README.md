@@ -22,7 +22,7 @@ en los links de donaciones en nuestra web
   en formato `.webp` y pesar menos de 100K.
 - Arreglando problemas en restaurantes.
 
-## Reglas para agregar
+## Reglas para agregar restaurantes
 
 - Los archivos deben estar con el formato de [example.md](example.md). Deben ser
   colocados dentro de `content/`.

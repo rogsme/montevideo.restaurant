@@ -1,8 +1,14 @@
 ---
-title: "🍲 Based Cooking 🍳"
+title: "🇺🇾 Restaurantes en Montevideo 🍖"
 ---
 
-## What do you want to cook?
+## ¿Dónde quieres comer?
+
+## Buscar por categoría
+
+{{< tagcloud >}}
+
+## O puedes buscar por restaurante...
 
 <noscript>
 <style>
@@ -11,7 +17,7 @@ title: "🍲 Based Cooking 🍳"
 </noscript>
 
 <div class="search">
-  <input type="text" id="search" placeholder="Search...">
+  <input type="text" id="search" placeholder="Buscar...">
   <button class="clear-search">
     <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Backspace</title><path d="M135.19 390.14a28.79 28.79 0 0021.68 9.86h246.26A29 29 0 00432 371.13V140.87A29 29 0 00403.13 112H156.87a28.84 28.84 0 00-21.67 9.84v0L46.33 256l88.86 134.11z" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="32"></path><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M336.67 192.33L206.66 322.34M336.67 322.34L206.66 192.33M336.67 192.33L206.66 322.34M336.67 322.34L206.66 192.33"></path></svg>
   </button>
@@ -60,22 +66,18 @@ document.addEventListener('DOMContentLoaded', () => {
 
 {{< artlist >}}
 
-## Or Browse by Category...
+## Acerca de este sitio
 
-{{< tagcloud >}}
+Este sitio es un fork de [based.cooking](https://based.cooking). 
 
-## About this site
+montevideo.restaurant fue creado porque no queria usar Rappi o PedidosYa. Ambas aplicaciones son pesadas, molestas, tienen miles de trackers y la mayoria del tiempo ni siquiera funcionan bien.
 
-Founded to provide a simple online cookbook without ads and obese web design.
-See the story of this site unfold in three videos:
+Todo este sitio esta hecho con HTML y CSS, nada de JavaScript (solo el campo de búsqueda), nada de trackers, nada de publicidades.
 
-- [A Demonstration of Modern Web Bloat](https://odysee.com/@Luke:7/a-demonstration-of-modern-web-bloat:f)
-- [The War Against Web Bloat Continues...](https://odysee.com/@Luke:7/the-war-against-web-bloat-continues...:a)
-- [SoyDevs DESTROYED Epic Style by Based Cooking!](https://odysee.com/@Luke:7/soydevs-destroyed-epic-style-by-based:6)
+## ¡Contribuir es muy fácil!
 
-## It's easy to contribute!
+Puedes agregar nuevos restaurantes [en Github](https://github.com/Rogergonzalez21/montevideo.restaurant).
 
-New recipes can be submitted [on Github](https://github.com/lukesmithxyz/based.cooking).
-We are funded by you only, not 20MB of ads or privacy-violating trackers per page.
+Esta pagina se mantiene gracias a ti, no a 20MB de publicidades y/o trackers que violan tu privacidad.
 
 {{< crypto >}}

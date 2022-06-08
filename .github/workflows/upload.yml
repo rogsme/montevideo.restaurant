@@ -21,13 +21,13 @@ jobs:
     - name: Updating website.
       uses: appleboy/ssh-action@master
       with:
-        host: based.cooking
-        username: based
-        key: ${{ secrets.based_ssh }}
-        passphrase: ${{ secrets.based_ssh_pass }}
-        port: ${{ secrets.based_port }}
+        host: ${{ secrets.ssh_host }}
+        username: ${{ secrets.ssh_user }}
+        key: ${{ secrets.ssh_key }}
+        passphrase: ${{ secrets.ssh_pass }}
+        port: ${{ secrets.ssh_port }}
         script: |
           cd repo
           git stash
           git pull --force origin master
-          hugo -s . -d ../based.cooking/
+          hugo -s . -d ../montevideo.restaurant/

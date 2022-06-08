@@ -1,39 +1,39 @@
 ---
-title: Dish Title
-tags: ['beef', 'soup', 'german']
+title: Nombre del restaurante
+tags: ['hamburguesa, 'POS, 'fritas']
 date: 2022-02-20
-author: "Your Name"
+author: "Tu nombre"
 ---
 
-If necessary, provide a very brief description of the dish in one or two sentences.
-For most dishes, this will be unnecessary.
-If there is a title image of this dish, it should be above this paragraph.
-You may also include prep/cook time and the number of servings as below:
+Debes agregar una imagen del restaurante aqui.
+Tambien tienes que llenar toda la info de la siguiente lista:
 
-- ⏲️ Prep time: 10 min
-- 🍳 Cook time: 30 min
-- 🍽️ Servings: 4
+- 📞 Numero de telefono / Whatsapp: 
+  + Telefono 1: [099123123](tel:099123123)
+  + Telefono 2: [098123123](tel:098123123)
+- 🌎 Direccion: 
+  + Direccion 1: [Direccion 1](link a openstreetmap)
+  + Direccion 2: [Direccion 2](link a openstreetmap)
+- 🕜 Horario:
+  + Horarios separados por dias
+  + O si solo tienen un horario
+  + Colocar solo un horario
+- 🤑 Forma de pago: Efectivo / POS
+- 🌐 Pagina web / Menu: https://pagina-web-del-restaurante.com
 
-## Ingredients
+## Descripción
 
-- There must be a blank line above all lists.
-- List the ingredients
-- in an unordered list
-- similar to this.
-- List amounts if necessary.
-- Put (optional) at the end of optional ingredients
+Una descripcion corta del restaurante
 
-## Directions
+## Redes sociales
 
-1. Now using an ordered list,
-2. give the directions to prepare the dish.
-3. Do **not** add unnecessary blank lines between items.
-4. If necessary,
-5. an image can be included between some directions if needed to explain something particular.
-6. But that should be kept to a minimum to reduce bandwidth and aid in simplicity.
+- Debe haber una linea en blanco sobre todas las listas
+- El formato debe ser asi:
+- Instagram: link de instagram
+- Facebook: link de facebook
 
-Note that you can create a `your-name.json` file in `data/authors` to add
-personal links and donation addresses if you want more specific credit. If you
-do this, for the `author:` line the in the metadata, include the bare file name
-of the json file. For example, my file is `data/authors/luke-smith.json`, so I
-would put `author: luke-smith`.
+Puedes crear un archivo `tu-nombre.json` en el directorio `data/authors`
+para crear un apartado de donaciones en caso de que quieras un reconocimiento especial.
+Si lo haces, en el campo `author:` de la parte de metadata, debes incluir el nombre del
+archivo json. Por ejemplo, mi archivo es `data/authors/roger-gonzalez.json`, asi que debo
+colocar `author: roger-gonzalez`.

@@ -1,6 +1,6 @@
-baseURL = 'https://based.cooking/'
+baseURL = 'https://montevideo.restaurant/'
 languageCode = 'en-us'
-title = 'Based Cooking'
+title = 'Restaurantes en Montevideo'
 theme = 'lugo'
 
 [markup]

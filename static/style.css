@@ -1,6 +1,6 @@
 body {
 	background: #151515 ;
-	color: navajowhite ;
+	color: white;
 	max-width: 850px ;
 	margin: auto ;
 	padding: 0 16px ;
@@ -19,7 +19,7 @@ body {
 }
 
 a {
-	color: gold ;
+	color: #4b9f27 ;
 }
 
 #tagcloud {
@@ -37,11 +37,11 @@ a {
 }
 
 a:hover {
-	color: beige ;
+	color: #2a5816 ;
 }
 
 a:visited {
-	color: darkgoldenrod ;
+	color: #38761d ;
 }
 
 h1 {
@@ -50,8 +50,8 @@ h1 {
 	text-align: center ;
 }
 
-h2 {
-	color: tomato ;
+h1,h2 {
+	color: #bbeaa8 ;
 	text-align: center ;
 }
 
@@ -165,10 +165,10 @@ button.clear-search:hover {
 }
 
 #tag_alcohol:before { content: "🍸" ;}
-#tag_american:before { content: "🇺🇸" ; }
-#tag_asian:before { content: "🥢" ; }
-#tag_australian:before { content: "🇦🇺" ;}
-#tag_austrian:before { content: "🇦🇹" ;}
+#tag_americano:before { content: "🇺🇸" ; }
+#tag_asiatico:before { content: "🥢" ; }
+#tag_australiano:before { content: "🇦🇺" ;}
+#tag_austriaco:before { content: "🇦🇹" ;}
 #tag_bacon:before { content: "🥓" ; }
 #tag_beans:before { content: "🫘" ; }
 #tag_beef:before { content: "🐄" ; }
@@ -249,3 +249,9 @@ button.clear-search:hover {
 #tag_ukrainian:before { content: "🇺🇦" ; }
 #tag_vietnamese:before { content: "🇻🇳" ; }
 #tag_wine:before { content: "🍷" ; }
+#tag_hamburguesa:before { content: "🍔" ; }
+#tag_familiar:before { content: "👪" ; }
+#tag_pollo:before { content: "🐔" ; }
+#tag_fritas:before { content: "🍟" ; }
+#tag_POS:before { content: "🏧" ; }
+#tag_pos:before { content: "🏧" ; }

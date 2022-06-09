@@ -5,12 +5,12 @@ tags: ['pollo', 'fritas', POS]
 author: roger-gonzalez
 ---
 
-![rooster-house](/pix/rooster-house.webp)
+[![rooster-house](/pix/rooster-house.webp)](/pix/rooster-house.webp)
 
 - 📞 Numero de telefono / Whatsapp: [092145857](tel:092145857)
+  + Whatsapp: [092145857](https://api.whatsapp.com/send?phone=598092145857)
 - 🌎 Direccion: 
-  + Pocitos: [26 de Marzo 1303](https://www.openstreetmap.org/node/944783718)
-  + Cordon: [Colonia 1775](https://www.openstreetmap.org/node/944757581)
+  + Cordon: [Colonia 1775](https://www.google.com/maps/place/Rooster+House/@-34.9017155,-56.1807306,17z/data=!3m1!4b1!4m5!3m4!1s0x959f8109f386407b:0xdb36fccd622cb71d!8m2!3d-34.9016959!4d-56.1785535)
 - 🕜 Horario: Todos los dias desde las 11:00 hasta las 0:00
 - 🤑 Forma de pago: Efectivo / POS
 - 🌐 Pagina web / Menu: https://roosterhouse.uy/

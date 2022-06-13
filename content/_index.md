@@ -1,5 +1,5 @@
 ---
-title: "🇺🇾 Restaurantes en Montevideo 🍖"
+title: "🇺🇾 Restaurantes en Montevideo 🥩"
 ---
 
 ## ¿Dónde quieres comer?

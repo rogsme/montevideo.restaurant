@@ -18,7 +18,7 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - name: Updating website.
+    - name: Update website.
       uses: appleboy/ssh-action@master
       with:
         host: ${{ secrets.ssh_host }}
@@ -30,8 +30,9 @@ jobs:
           cd repo
           git stash
           git pull --force origin master
+          rm -rf /var/www/montevideo.restaurant/
           hugo -s . -d /var/www/montevideo.restaurant/
-    - name: Clear Cloudflare cache
+    - name: Clear Cloudflare cache.
       uses: Cyb3r-Jak3/action-cloudflare-cache@main
       with:
         zone: ${{ secrets.CLOUDFLARE_ZONE }}

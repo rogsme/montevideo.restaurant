@@ -31,3 +31,8 @@ jobs:
           git stash
           git pull --force origin master
           hugo -s . -d /var/www/montevideo.restaurant/
+    - name: Clear Cloudflare cache
+      uses: Cyb3r-Jak3/action-cloudflare-cache@<Latest Release>
+      with:
+        zone: ${{ secrets.CLOUDFLARE_ZONE }}
+        api_token: ${{ secrets.CLOUDFLARE_TOKEN }}

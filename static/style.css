@@ -174,3 +174,6 @@ button.clear-search:hover {
 #tag_pizza:before { content: "🍕" ; }
 #tag_POS:before { content: "🏧" ; }
 #tag_pos:before { content: "🏧" ; }
+#tag_helado:before { content: "🍨" ; }
+#tag_vegano:before { content: "🌿" ; }
+#tag_celiaco:before { content: "🌾❌" ; }

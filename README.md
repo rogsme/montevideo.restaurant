@@ -19,7 +19,7 @@ en los links de donaciones en nuestra web
 
 - Agregando un restaurante.
 - Agrega fotos o menues a los restaurantes que existen. Las imagenes deben ser
-  en formato `.webp` y pesar menos de 100K.
+  en formato `.webp` y pesar menos lo menos posible sin sacrificar la calidad.
 - Arreglando problemas en restaurantes.
 
 ## Reglas para agregar restaurantes

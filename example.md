@@ -21,16 +21,20 @@ Tambien tienes que llenar toda la info de la siguiente lista:
 - 🤑 Forma de pago: Efectivo / POS
 - 🌐 Pagina web / Menu: https://pagina-web-del-restaurante.com
 
+## Menu (opcional)
+
+Al menos una imagen del menu, si no tiene pagina web.
+
 ## Descripción
 
-Una descripcion corta del restaurante
+Una descripcion corta del restaurante.
 
 ## Redes sociales
 
-- Debe haber una linea en blanco sobre todas las listas
+- Debe haber una linea en blanco sobre todas las listas.
 - El formato debe ser asi:
-- Instagram: link de instagram
-- Facebook: link de facebook
+- Instagram: link de instagram.
+- Facebook: link de facebook.
 
 Puedes crear un archivo `tu-nombre.json` en el directorio `data/authors`
 para crear un apartado de donaciones en caso de que quieras un reconocimiento especial.

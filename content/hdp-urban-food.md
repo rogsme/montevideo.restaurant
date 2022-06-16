@@ -1,7 +1,7 @@
 ---
 title: "HDP Urban Food"
 date: 2022-06-06
-tags: ['hamburguesa', 'fritas', 'POS']
+tags: ['hamburguesa', 'fritas', 'americano', 'POS']
 author: roger-gonzalez
 ---
 

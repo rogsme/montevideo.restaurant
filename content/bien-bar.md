@@ -1,7 +1,7 @@
 ---
 title: "Bien Bar"
 date: 2022-06-09
-tags: ['pizza', 'sandwiches', 'parrilla', 'uruguayo', 'POS', 'familiar']
+tags: ['pizza', 'sandwiches', 'parrilla', 'uruguayo', 'faina', 'POS', 'familiar']
 author: roger-gonzalez
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Garage Burger"
 date: 2022-06-06
-tags: ['hamburguesa', 'familiar', 'fritas', 'POS']
+tags: ['hamburguesa', 'familiar', 'fritas', 'americano', 'POS']
 author: roger-gonzalez
 ---
 

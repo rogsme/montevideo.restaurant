@@ -2,7 +2,6 @@
 title: "La Cantina"
 date: 2022-06-16
 tags: ['milanesa', 'uruguayo', 'fritas', 'sandwiches', 'POS']
-author: roger-gonzalez
 ---
 
 

@@ -18,6 +18,8 @@ Tambien tienes que llenar toda la info de la siguiente lista:
   + Horarios separados por dias
   + O si solo tienen un horario
   + Colocar solo un horario
+  + El horario debe ser en formato de 24hs
+  + Ejemplo: 11:00hs (11:00AM) / 15:00hs (03:00PM) / 02:00hs (02:00AM)
 - 🤑 Forma de pago: Efectivo / POS
 - 🌐 Pagina web / Menu: https://pagina-web-del-restaurante.com
 

@@ -8,7 +8,7 @@ tags: ['milanesa', 'uruguayo', 'fritas', 'sandwiches', 'POS']
 [![la-cantina](/pix/la-cantina.webp)](/pix/la-cantina.webp)
 
 - 📞 Numero de telefono / Whatsapp: [094257936](https://api.whatsapp.com/send?phone=59894257936)
-- 🌎 Direccion: [Emilio Frugoni 924](https://www.google.com/maps/place/Dr+Emilio+Frugoni+924,+11200+Montevideo,+Departamento+de+Montevideo/@-34.9124476,-56.1768763,17z/data=!3m1!4b1!4m5!3m4!1s0x959f81ba337fee05:0x2f1e0ed2b3b88ed3!8m2!3d-34.9124476!4d-56.1746876)
+- 🌎 Direccion: [Emilio Frugoni 924](https://www.google.com/maps/place/Club+Atl%C3%A9tico+Welcome/@-34.9125918,-56.1758305,17.22z/data=!4m5!3m4!1s0x959f8179b845903d:0x750fe3f6f12ca620!8m2!3d-34.9123279!4d-56.1746807)
 - 🕜 Horario:
   + 📅 Lunes - Sabado: 20:00hs - 00:00hs
 - 🤑 Forma de pago: Efectivo / POS

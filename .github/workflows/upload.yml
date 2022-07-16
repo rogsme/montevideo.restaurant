@@ -30,7 +30,7 @@ jobs:
           cd repo
           git stash
           git pull --force origin master
-          rm -rf /var/www/montevideo.restaurant/
+          rm -rf /var/www/montevideo.restaurant/*
           hugo -s . -d /var/www/montevideo.restaurant/
     - name: Clear Cloudflare cache.
       uses: Cyb3r-Jak3/action-cloudflare-cache@main

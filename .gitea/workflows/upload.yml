@@ -1,0 +1,46 @@
+name: Deploy Website
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  update:
+    name: Deploy Hugo Site
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up SSH and deploy site
+        run: |
+          echo "🔐 Setting up SSH"
+          eval "$(ssh-agent -s)"
+          mkdir -p ~/.ssh
+          echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add -
+          chmod 700 ~/.ssh
+          ssh-keyscan "$SSH_HOST" >> ~/.ssh/known_hosts
+          chmod 644 ~/.ssh/known_hosts
+
+          echo "🚀 Running remote build"
+          ssh -p "$SSH_PORT" "$SSH_USER@$SSH_HOST" "
+            cd repo &&
+            git stash &&
+            git pull --force origin master &&
+            ./build.sh
+          "
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_KEY }}
+          SSH_USER: ${{ secrets.SSH_USER }}
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_PORT: ${{ secrets.SSH_PORT }}
+
+      - name: Clear Cloudflare cache
+        run: |
+          curl -X POST "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE/purge_cache" \
+            -H "Authorization: Bearer $CLOUDFLARE_TOKEN" \
+            -H "Content-Type: application/json" \
+            --data '{"purge_everything":true}'
+        env:
+          CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
+          CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}

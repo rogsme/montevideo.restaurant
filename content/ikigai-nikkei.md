@@ -20,7 +20,7 @@ author: facundo-alsina-cobas
 
 ## Descripción:
 
-IKIGAI Nikkei, un espacio donde la sofisticación culinaria cobra vida. Nuestra propuesta fusiona la delicadeza de la gastronomía japonesa con la intensidad de la cocina peruana, en una experiencia sensorial única. Cada detalle, desde el ambiente hasta el servicio, ha sido pensado para brindar un momento exclusivo, reservado para quienes aprecian la excelencia.
+Ikigai Nikkei, un espacio donde la sofisticación culinaria cobra vida. Nuestra propuesta fusiona la delicadeza de la gastronomía japonesa con la intensidad de la cocina peruana, en una experiencia sensorial única. Cada detalle, desde el ambiente hasta el servicio, ha sido pensado para brindar un momento exclusivo, reservado para quienes aprecian la excelencia.
 
 ## Redes sociales
 

@@ -15,9 +15,12 @@ author: roger-gonzalez
 - 🌎 Direccion:
   + [Gabriel Pereira 3137 (Pocitos)](https://www.openstreetmap.org/search?query=Gabriel+Pereira+3137+Montevideo)
   + [Soriano 977 (Centro)](https://www.openstreetmap.org/search?query=Soriano+977+Montevideo)
-- 🕜 Horario:
+- 🕜 Horario Pocitos:
   + 📅 Lunes - Sábado: 10:00 - 14:55 y 18:00 - 23:50
   + 📅 Domingos: 18:00 - 23:50
+- 🕜 Horario Centro:
+  + 📅 Lunes - Sábado: 10:00 - 24:00 (horario continuo)
+  + 📅 Domingos: 19:00 - 24:00
 - 🤑 Forma de pago: Efectivo / POS / Tarjeta
 - 🌐 Pagina web / Menu: https://lokotas.com.uy/
 

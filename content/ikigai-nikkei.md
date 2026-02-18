@@ -7,7 +7,7 @@ author: facundo-alsina-cobas
 
 [![ikigai-nikkei](/pix/ikigai-nikkei.jpg)](/pix/ikigai-nikkei.jpg)
 
-- 📞 Numero de telefono: [096321106](tel:096321106)
+- 📞 Numero de telefono / Whatsapp: [096 321 106](https://wa.me/59896321106)
 - 🌎 Direccion: [Simón Bolivar 1158](https://www.google.com/maps/search/Ikigai+Nikkei+Sim%C3%B3n+Bolivar+1158+Montevideo)
 - 🕜 Horarios:
   + 📅 Lunes: 20:00 a 00:00

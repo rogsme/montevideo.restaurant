@@ -7,7 +7,7 @@ tags: ['pizza', 'hamburguesa', 'fritas', 'uruguayo', 'pollo', 'POS']
 
 [![trebol-resto-bar](/pix/trebol-resto-bar.webp)](/pix/trebol-resto-bar.webp)
 
-- 📞 Numero de telefono: [095155111](tel:095155111)
+- 📞 Numero de telefono / Whatsapp: [095 155 111](https://wa.me/59895155111)
 - 🌎 Direccion: [Avenida General Rivera 2028](https://www.google.com/maps/place/Trebol+Resto+Bar/@-34.9025329,-56.1760131,16.3z/data=!4m12!1m6!3m5!1s0x959f816efdbf3cc1:0xb90b6797f9797e50!2sTrebol+Resto+Bar!8m2!3d-34.9023322!4d-56.1724929!3m4!1s0x959f816efdbf3cc1:0xb90b6797f9797e50!8m2!3d-34.9023322!4d-56.1724929)
 - 🕜 Horario:
   + 📅 Lunes - Viernes: 11:00hs - 17:00hs

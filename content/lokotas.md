@@ -9,9 +9,9 @@ author: roger-gonzalez
 
 - 📞 Numero de telefono / Whatsapp:
   + Pocitos (fijo): [2706 8629](tel:27068629)
-  + Pocitos (WhatsApp): [097 503 310](tel:097503310)
+  + Pocitos (WhatsApp): [097 503 310](https://wa.me/59897503310)
   + Centro (fijo): [2903 2600](tel:29032600)
-  + Centro (WhatsApp): [097 731 111](tel:097731111)
+  + Centro (WhatsApp): [097 731 111](https://wa.me/59897731111)
 - 🌎 Direccion:
   + [Gabriel Pereira 3137 (Pocitos)](https://www.openstreetmap.org/search?query=Gabriel+Pereira+3137+Montevideo)
   + [Soriano 977 (Centro)](https://www.openstreetmap.org/search?query=Soriano+977+Montevideo)
@@ -20,6 +20,10 @@ author: roger-gonzalez
   + 📅 Domingos: 18:00 - 23:50
 - 🤑 Forma de pago: Efectivo / POS / Tarjeta
 - 🌐 Pagina web / Menu: https://lokotas.com.uy/
+
+## Menu
+
+[![lokotas-menu-01](/pix/lokotas-menu-01.webp)](/pix/lokotas-menu-01.webp)
 
 ## Descripción
 

@@ -17,10 +17,6 @@ author: facundo-alsina-cobas
 - 🌐 Menu: [Link](https://drive.google.com/file/d/1mJFj0PyQ94LY-5w_i6keaM2dm0-Dlxmt/view?usp=sharing)
 
 
-## Menu
-
-[![ikigai-nikkei-menu-01](/pix/ikigai-nikkei-menu-01.webp)](/pix/ikigai-nikkei-menu-01.webp)
-
 ## Descripción:
 
 Ikigai Nikkei, un espacio donde la sofisticación culinaria cobra vida. Nuestra propuesta fusiona la delicadeza de la gastronomía japonesa con la intensidad de la cocina peruana, en una experiencia sensorial única. Cada detalle, desde el ambiente hasta el servicio, ha sido pensado para brindar un momento exclusivo, reservado para quienes aprecian la excelencia.

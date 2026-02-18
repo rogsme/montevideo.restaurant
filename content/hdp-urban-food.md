@@ -15,7 +15,7 @@ author: roger-gonzalez
   + 📅 Lunes: Cerrado
   + 📅 Martes - Domingo: 20:00 - 00:00
 - 🤑 Forma de pago: Efectivo / POS
-- 🌐 Pagina web / Menu: https://hdp.com.uy/
+- 🌐 Pagina web / Menu: https://hdp.uy/
 
 ## Descripción
 

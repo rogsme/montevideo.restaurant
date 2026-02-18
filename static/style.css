@@ -191,3 +191,5 @@ button.clear-search:hover {
 #tag_japones:before { content: "🇯🇵"; }
 #tag_ramen:before { content: "🍜"; }
 #tag_pizzetas:before { content: "🫓" ; }
+#tag_shawarma:before { content: "🥙" ; }
+#tag_arabe:before { content: "🧆" ; }

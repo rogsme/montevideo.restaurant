@@ -21,6 +21,10 @@ author: roger-gonzalez
 - 🤑 Forma de pago: Efectivo / POS / Tarjeta
 - 🌐 Pagina web / Menu: https://lokotas.com.uy/
 
+## Menu
+
+[![lokotas-menu-01](/pix/lokotas-menu-01.webp)](/pix/lokotas-menu-01.webp)
+
 ## Descripción
 
 Desde 1987 cocinando un clásico uruguayo. Lokotas es uno de los referentes de las empanadas en Montevideo, con más de 50 sabores disponibles. El relleno es sabroso y se nota la calidad de los ingredientes. También tienen pizzetas y tartas con su exclusiva masa dorada. Si bien las empanadas de [Doña Martina](/dona-martina/) son mejores, Lokotas es una muy buena opción para los martes, cuando Doña Martina está cerrada.

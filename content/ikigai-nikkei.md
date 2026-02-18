@@ -7,7 +7,7 @@ author: facundo-alsina-cobas
 
 [![ikigai-nikkei](/pix/ikigai-nikkei.jpg)](/pix/ikigai-nikkei.jpg)
 
-- 📞 Numero de telefono: [096321106](tel:096321106)
+- 📞 Numero de telefono / Whatsapp: [096 321 106](https://wa.me/59896321106)
 - 🌎 Direccion: [Simón Bolivar 1158](https://www.google.com/maps/search/Ikigai+Nikkei+Sim%C3%B3n+Bolivar+1158+Montevideo)
 - 🕜 Horarios:
   + 📅 Lunes: 20:00 a 00:00
@@ -16,6 +16,10 @@ author: facundo-alsina-cobas
 - 🤑 Forma de pago: Efectivo / POS / Transferencia / Mercado Pago / Criptomonedas
 - 🌐 Menu: [Link](https://drive.google.com/file/d/1mJFj0PyQ94LY-5w_i6keaM2dm0-Dlxmt/view?usp=sharing)
 
+
+## Menu
+
+[![ikigai-nikkei-menu-01](/pix/ikigai-nikkei-menu-01.webp)](/pix/ikigai-nikkei-menu-01.webp)
 
 ## Descripción:
 

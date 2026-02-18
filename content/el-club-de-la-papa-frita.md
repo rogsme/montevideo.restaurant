@@ -26,7 +26,7 @@ author: roger-gonzalez
   + 📅 Domingo - Jueves: 09:00 - 01:00
   + 📅 Viernes - Sabado: 09:00 - 02:00
 - 🤑 Forma de pago: Efectivo / POS
-- 🌐 Pagina web: https://www.elclubdelapapafrita.com
+- 🌐 Pagina web: https://elclubdelapapafrita.uy/
 
 ## Menu
 

@@ -21,7 +21,7 @@ author: roger-gonzalez
 
 ## Descripción
 
-Excelentes pizzas pero solo tienen delivery y pick up. Es complicado conseguir pizzas americanas en Uruguay, este es uno de los pocos sitios que aun las vende.
+Excelentes pizzas y hamburguesas al estilo americano. Es complicado conseguir pizzas americanas en Uruguay, y este es uno de los pocos sitios que las vende bien. También tienen opciones Plant Based, tragos y cerveza tirada en su local.
 
 ## Redes sociales
 

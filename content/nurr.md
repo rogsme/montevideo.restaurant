@@ -8,8 +8,8 @@ author: roger-gonzalez
 
 [![nurr](/pix/nurr.webp)](/pix/nurr.webp)
 
-- 📞 Numero de telefono:
-  + [2706 4610](tel:27064610)
+- 📞 Numero de telefono / Whatsapp:
+  + [093 777 018](https://wa.me/59893777018)
 - 🌎 Direccion:
   + [Gabriel A. Pereira 3179 (esq. 26 de Marzo), Pocitos](https://www.google.com/maps/search/Nurr+Shawarma+Gabriel+Pereira+3179+Montevideo)
 - 🕜 Horario:

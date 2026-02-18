@@ -11,7 +11,10 @@ author: roger-gonzalez
   + Whatsapp: [092145857](https://wa.me/59892145857)
 - 🌎 Direccion: 
   + Cordon: [Colonia 1775](https://www.google.com/maps/place/Rooster+House/@-34.9017155,-56.1807306,17z/data=!3m1!4b1!4m5!3m4!1s0x959f8109f386407b:0xdb36fccd622cb71d!8m2!3d-34.9016959!4d-56.1785535)
-- 🕜 Horario: Todos los dias desde las 11:00 hasta las 0:00
+- 🕜 Horario:
+  + 📅 Lunes: Cerrado
+  + 📅 Martes - Miercoles: 11:00 - 22:00
+  + 📅 Jueves - Domingo: 11:00 - 00:00
 - 🤑 Forma de pago: Efectivo / POS
 - 🌐 Pagina web / Menu: https://roosterhouse.uy/
 

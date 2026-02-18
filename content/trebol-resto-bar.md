@@ -14,7 +14,7 @@ tags: ['pizza', 'hamburguesa', 'fritas', 'uruguayo', 'pollo', 'POS']
   + 📅 Sabado: 11:00hs - 15:30hs
   + 📅 Domingo: Cerrado
 - 🤑 Forma de pago: Efectivo / POS
-- 🌐 Pagina web / Menu: https://trebol-resto-bar.negocio.site/
+- 🌐 Facebook: https://www.facebook.com/TrebolRestoBarUY/
 
 ## Menu
 

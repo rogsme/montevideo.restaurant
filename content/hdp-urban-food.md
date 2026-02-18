@@ -9,7 +9,7 @@ author: roger-gonzalez
 [![hdp-urban-food](/pix/hdp-urban-food.webp)](/pix/hdp-urban-food.webp)
 
 - 📞 Numero de telefono: [27099812](tel:27099812)
-  + Whatsapp: [091217068](https://api.whatsapp.com/send?phone=59891217068)
+  + Whatsapp: [091217068](https://wa.me/59891217068)
 - 🌎 Direccion: [26 de Marzo 1207](https://www.google.com/maps/place/H.D.P+Urban+food/@-34.9093601,-56.1539845,15.86z/data=!4m12!1m6!3m5!1s0x959f810d9c152dbb:0x8420921d46aaac65!2sH.D.P+Urban+food!8m2!3d-34.9094552!4d-56.1489592!3m4!1s0x959f810d9c152dbb:0x8420921d46aaac65!8m2!3d-34.9094552!4d-56.1489592)
 - 🕜 Horario:
   + 📅 Lunes: Cerrado

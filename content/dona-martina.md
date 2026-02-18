@@ -9,7 +9,7 @@ author: roger-gonzalez
 [![empanadas-dona-martina](/pix/empanadas-dona-martina.webp)](/pix/empanadas-dona-martina.webp)
 
 - 📞 Numero de telefono: [27069016](tel:27069016)
-  + Whatsapp: [099838387](https://api.whatsapp.com/send?phone=59899838387)
+  + Whatsapp: [099838387](https://wa.me/59899838387)
 - 🌎 Direccion: [Pedro Fco. Berro 1227](https://www.google.com/maps/place/Do%C3%B1a+Martina+Pocitos/@-34.9100242,-56.1478995,20.05z/data=!4m5!3m4!1s0x959f81f9ce38bdbf:0x629c8d499e9b0b!8m2!3d-34.9099283!4d-56.1477841)
 - 🕜 Horario:
   + 📅 Lunes - Miercoles - Jueves: 11:30hs a 15hs / 19:30hs a 23:30hs

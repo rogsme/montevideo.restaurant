@@ -20,5 +20,5 @@ author: roger-gonzalez
 
 ## Redes sociales
 
-- Instagram: http://instagram.com/heladerialostrovadores
-- Facebook: http://facebook.com/heladeria.lostrovadores
+- Instagram: https://instagram.com/heladerialostrovadores
+- Facebook: https://facebook.com/heladeria.lostrovadores

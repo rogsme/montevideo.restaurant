@@ -28,7 +28,6 @@ author: roger-gonzalez
 
 [![lokotas-menu-01](/pix/lokotas-menu-01.webp)](/pix/lokotas-menu-01.webp)
 
-[![lokotas-menu-02](/pix/lokotas-menu-02.webp)](/pix/lokotas-menu-02.webp)
 
 ## Descripción
 

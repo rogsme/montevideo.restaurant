@@ -14,7 +14,6 @@ tags: ['mexicano', 'nachos', 'fritas', 'vegano', 'vegetariano', 'hamburguesa', '
   + Prado: [Cubo del Norte 3847](https://www.google.com/maps/search/Cubo+del+Norte+3847+Montevideo)
 - 🕜 Horario: Todos los días de 12:00 a 00:00hs
 - 🤑 Forma de pago: Efectivo / POS
-- 🌐 Pagina web / Menu: https://lachingada.com.uy/
 
 ## Descripción
 

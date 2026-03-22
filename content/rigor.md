@@ -15,8 +15,9 @@ author: roger-gonzalez
   + [Buceo](https://www.google.com/maps/search/Rigor+Pizza+Buceo+Montevideo)
   + [Las Piedras](https://www.google.com/maps/search/Rigor+Pizza+Las+Piedras+Uruguay)
 - 🕜 Horario:
-  + 📅 Lunes a Jueves: 18:30 - 00:00
-  + 📅 Viernes a Domingo: 11:30 - 15:00 y 18:30 - 00:00
+  + 📅 Lunes - Miércoles: 19:00 - 00:00
+  + 📅 Jueves - Domingo: 12:00 - 00:00
+  + 📅 Viernes - Sábado: 12:00 - 01:00
 - 🤑 Forma de pago: Efectivo / POS / MercadoPago
 - 🌐 Pagina web / Menu: https://rigorpizza.com/
 

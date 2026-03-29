@@ -19,7 +19,8 @@ author: roger-gonzalez
   + 📅 Lunes - Sábado: 10:00 - 14:55 y 18:00 - 23:50
   + 📅 Domingos: 18:00 - 23:50
 - 🕜 Horario Centro:
-  + 📅 Lunes - Sábado: 10:00 - 24:00 (horario continuo)
+  + 📅 Lunes - Viernes: 10:30 - 24:00 (horario continuo)
+  + 📅 Sábados: 10:30 - 16:00 y 19:00 - 24:00
   + 📅 Domingos: 19:00 - 24:00
 - 🤑 Forma de pago: Efectivo / POS / Tarjeta
 - 🌐 Pagina web / Menu: https://lokotas.com.uy/

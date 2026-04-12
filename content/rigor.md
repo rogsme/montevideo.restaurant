@@ -16,8 +16,9 @@ author: roger-gonzalez
   + [Las Piedras](https://www.google.com/maps/search/Rigor+Pizza+Las+Piedras+Uruguay)
 - 🕜 Horario:
   + 📅 Lunes - Miércoles: 19:00 - 00:00
-  + 📅 Jueves - Domingo: 12:00 - 00:00
+  + 📅 Jueves: 12:00 - 00:00
   + 📅 Viernes - Sábado: 12:00 - 01:00
+  + 📅 Domingo: 12:00 - 00:00
 - 🤑 Forma de pago: Efectivo / POS / MercadoPago
 - 🌐 Pagina web / Menu: https://rigorpizza.com/
 

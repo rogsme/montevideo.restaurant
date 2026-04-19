@@ -10,7 +10,7 @@ author: roger-gonzalez
 - 📞 Numero de telefono / Whatsapp: [+598 94 008 400](tel:59894008400)
 - 🌎 Direccion:
   + [Centro: Andes 1384, Montevideo](https://www.google.com/maps/search/Rigor+Pizza+Andes+1384+Montevideo)
-  + [Punta Carretas](https://www.google.com/maps/search/Rigor+Pizza+Punta+Carretas+Montevideo)
+  + [Punta Carretas: Cnel. Mora 597](https://www.google.com/maps/place/Rigor+Pizza+Punta+Carretas/@-34.9209,-56.1626,17z)
   + [Carrasco](https://www.google.com/maps/search/Rigor+Pizza+Carrasco+Montevideo)
   + [Buceo](https://www.google.com/maps/search/Rigor+Pizza+Buceo+Montevideo)
   + [Las Piedras](https://www.google.com/maps/search/Rigor+Pizza+Las+Piedras+Uruguay)

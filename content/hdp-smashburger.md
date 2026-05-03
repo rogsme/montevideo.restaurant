@@ -1,0 +1,29 @@
+---
+title: "HDP Smash Burger"
+date: 2022-06-06
+tags: ['hamburguesa', 'fritas', 'americano', 'POS']
+author: roger-gonzalez
+aliases: ["/hdp-urban-food/"]
+---
+
+[![hdp-smashburger](/pix/hdp-smashburger.webp)](/pix/hdp-smashburger.webp)
+
+- 📞 Numero de telefono: [27099812](tel:27099812)
+  + Pocitos (WhatsApp): [092888894](https://wa.me/59892888894)
+  + Obligado (WhatsApp): [091217068](https://wa.me/59891217068)
+- 🌎 Direccion:
+  + Pocitos: [26 de Marzo 1207](https://www.google.com/maps/place/H.D.P+Urban+food/@-34.9093601,-56.1539845,15.86z/data=!4m12!1m6!3m5!1s0x959f810d9c152dbb:0x8420921d46aaac65!2sH.D.P+Urban+food!8m2!3d-34.9094552!4d-56.1489592!3m4!1s0x959f810d9c152dbb:0x8420921d46aaac65!8m2!3d-34.9094552!4d-56.1489592)
+  + Obligado: [Obligado 1174](https://www.google.com/maps/search/HDP+Smash+Burger+Obligado+1174+Montevideo)
+- 🕜 Horario:
+  + 📅 Lunes: Cerrado
+  + 📅 Martes - Domingo: 20:00 - 00:00
+- 🤑 Forma de pago: Efectivo / POS
+- 🌐 Pagina web / Menu: https://hdp.uy/
+
+## Descripción
+
+¡Las mejores hamburguesas de Montevideo! Muy buen sabor y muy buena calidad. Si vas a pedir por delivery, tienes que ordenar temprano porque la cocina se llena mucho y el delivery a veces se toma su tiempo.
+
+## Redes sociales
+
+- Instagram: https://www.instagram.com/hdp.smashburger/

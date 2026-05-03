@@ -9,11 +9,11 @@ author: roger-gonzalez
 
 - 📞 Numero de telefono / Whatsapp: [+598 94 008 400](tel:59894008400)
 - 🌎 Direccion:
-  + [Centro: Andes 1384, Montevideo](https://www.google.com/maps/search/Rigor+Pizza+Andes+1384+Montevideo)
-  + [Punta Carretas: Cnel. Mora 597](https://www.google.com/maps/place/Rigor+Pizza+Punta+Carretas/@-34.9209,-56.1626,17z)
-  + [Carrasco](https://www.google.com/maps/search/Rigor+Pizza+Carrasco+Montevideo)
-  + [Buceo](https://www.google.com/maps/search/Rigor+Pizza+Buceo+Montevideo)
-  + [Las Piedras](https://www.google.com/maps/search/Rigor+Pizza+Las+Piedras+Uruguay)
+  + [Centro: Andes 1384](https://www.google.com/maps/search/Rigor+Pizza+Andes+1384+Montevideo)
+  + [Punta Carretas: Cnel. Mora 597](https://www.google.com/maps/search/Rigor+Pizza+Cnel+Mora+597+Montevideo)
+  + [Carrasco: Dr. Gabriel Otero 6437](https://www.google.com/maps/search/Rigor+Pizza+Dr+Gabriel+Otero+6437+Montevideo)
+  + [Buceo: Av. Gral Rivera 4237](https://www.google.com/maps/search/Rigor+Pizza+Av+Gral+Rivera+4237+Montevideo)
+  + [Las Piedras: Gral. Leandro Gómez 624 bis](https://www.google.com/maps/search/Rigor+Pizza+Gral+Leandro+Gomez+624+Las+Piedras)
 - 🕜 Horario:
   + 📅 Lunes - Miércoles: 19:00 - 00:00
   + 📅 Jueves: 12:00 - 00:00

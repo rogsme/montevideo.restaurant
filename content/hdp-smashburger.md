@@ -1,12 +1,12 @@
 ---
-title: "HDP Urban Food"
+title: "HDP Smash Burger"
 date: 2022-06-06
 tags: ['hamburguesa', 'fritas', 'americano', 'POS']
 author: roger-gonzalez
+aliases: ["/hdp-urban-food/"]
 ---
 
-
-[![hdp-urban-food](/pix/hdp-urban-food.webp)](/pix/hdp-urban-food.webp)
+[![hdp-smashburger](/pix/hdp-smashburger.webp)](/pix/hdp-smashburger.webp)
 
 - 📞 Numero de telefono: [27099812](tel:27099812)
   + Pocitos (WhatsApp): [092888894](https://wa.me/59892888894)

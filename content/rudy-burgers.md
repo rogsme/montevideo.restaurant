@@ -25,9 +25,9 @@ author: roger-gonzalez
 
 ## Descripción
 
-La mejor hamburguesa de Montevideo, y te lo digo con total seguridad. Simple pero increíble — carne recién picada y pan de receta propia, sin estupideces encima. Las hamburguesas son grandes, nunca salís con hambre. Las papas rústicas con cheddar son obligatorias.
+La mejor hamburguesa de Montevideo, y te lo digo con total seguridad. Simple pero increíble: carne recién picada y pan de receta propia, sin estupideces encima. Las hamburguesas son grandes, nunca sales con hambre. Las papas fritas con cheddar son obligatorias.
 
-Tienen descuento con ITAÚ, así que mejor todavía. Lo único que me rompe las pelotas es que el sistema de fidelización de Google Wallet (comprás X hamburguesas y te dan una gratis) solo funciona si comprás en el local — si pedís online, no cuenta. Una cagada, pero las hamburguesas lo valen.
+Tienen descuento con ITAÚ, así que mejor todavía. Lo único que me rompe las pelotas es que el sistema de fidelización de Google Wallet (compras X hamburguesas y te dan una gratis) solo funciona si compras en el local — si pides online, no cuenta. Una cagada, pero las hamburguesas lo valen.
 
 Cuatro locales: Pocitos, Punta Carretas, Carrasco y Centro. Delivery y takeaway en todos.
 

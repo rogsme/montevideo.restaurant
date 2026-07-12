@@ -186,3 +186,10 @@ button.clear-search:hover {
 #tag_nachos:before { content: "🔺" ; }
 #tag_vegetariano:before { content: "🥦" ; }
 #tag_faina:before { content: "🫓" ; }
+#tag_sushi:before { content: "🍣"; }
+#tag_peruano:before { content: "🇵🇪"; }
+#tag_japones:before { content: "🇯🇵"; }
+#tag_ramen:before { content: "🍜"; }
+#tag_pizzetas:before { content: "🫓" ; }
+#tag_shawarma:before { content: "🥙" ; }
+#tag_arabe:before { content: "🧆" ; }

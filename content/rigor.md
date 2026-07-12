@@ -1,0 +1,36 @@
+---
+title: Rigor
+date: 2026-02-23
+tags: ['pizza', 'americano', 'faina', 'pos']
+author: roger-gonzalez
+---
+
+[![rigor](/pix/rigor.webp)](/pix/rigor.webp)
+
+- 📞 Numero de telefono / Whatsapp: [+598 94 008 400](tel:59894008400)
+- 🌎 Direccion:
+  + [Centro: Andes 1384](https://www.google.com/maps/search/Rigor+Pizza+Andes+1384+Montevideo)
+  + [Punta Carretas: Cnel. Mora 597](https://www.google.com/maps/search/Rigor+Pizza+Cnel+Mora+597+Montevideo)
+  + [Carrasco: Dr. Gabriel Otero 6437](https://www.google.com/maps/search/Rigor+Pizza+Dr+Gabriel+Otero+6437+Montevideo)
+  + [Buceo: Av. Gral Rivera 4237](https://www.google.com/maps/search/Rigor+Pizza+Av+Gral+Rivera+4237+Montevideo)
+  + [Las Piedras: Gral. Leandro Gómez 624 bis](https://www.google.com/maps/search/Rigor+Pizza+Gral+Leandro+Gomez+624+Las+Piedras)
+- 🕜 Horario:
+  + 📅 Lunes - Miércoles: 19:00 - 00:00
+  + 📅 Jueves: 12:00 - 00:00
+  + 📅 Viernes - Sábado: 12:00 - 01:00
+  + 📅 Domingo: 12:00 - 00:00
+- 🤑 Forma de pago: Efectivo / POS / MercadoPago
+- 🌐 Pagina web / Menu: https://rigorpizza.com/
+
+## Descripción
+
+Rigor es una de las pizzerías que más me gustó en Montevideo. Las pizzas son excelentes — buen tamaño y sabor increíble. Hacen pizza al estilo americano (NY-style), y son de lo mejor que encontré en Montevideo en ese estilo, sin contar cadenas internacionales como Domino's o Sbarro.
+
+La pizza uruguaya es única y tiene su propia identidad, que respeto mucho. Pero si te dan ganas de una americana bien hecha — masa grande, abundante y sabrosa — Rigor es mi primera recomendación en Montevideo. También tienen pizzas napolitanas y opciones congeladas para llevar a casa.
+
+Tienen varios locales repartidos por la ciudad: Centro, Punta Carretas, Carrasco, Buceo y Las Piedras. Pedís directo desde su web y llega rápido.
+
+## Redes sociales
+
+- Instagram: https://www.instagram.com/rigorpizza/
+- Facebook: https://www.facebook.com/rigorpizza/

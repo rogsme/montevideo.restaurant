@@ -19,7 +19,7 @@ author: roger-gonzalez
   + 📅 Viernes - Sabado: 12:00 - 16:00 y 19:30 - 01:00
   + 📅 Domingo: 12:00 - 16:00 y 19:30 - 00:00
 - 🤑 Forma de pago: Efectivo / POS
-- 🌐 Pagina web / Menu: https://garageburger.uy/
+- 🌐 Pagina web / Menu: https://www.garageburger.com.uy/
 
 ## Descripción
 

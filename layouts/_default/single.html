@@ -4,7 +4,7 @@
 
 {{ .Content }}
 
-{{ $author := index .Site.Data.authors (.Params.author | default "default") }}
+{{ $author := index hugo.Data.authors (.Params.author | default "default") }}
 {{- if $author -}}
 <h2>Agregado por:</h2>
 <ul>

@@ -25,7 +25,11 @@ author: roger-gonzalez
 
 ## Descripción
 
-Rudy Burgers nació en 2016 de la mano de Alejandro Mazzoli y Joaquín Garese, dos amigos que tras un viaje por Europa decidieron traer a Montevideo las mejores hamburguesas artesanales. Su filosofía es simple: menos es más. Carne recién picada de tres cortes seleccionados y pan de receta propia — sin sobrecargar con toppings innecesarios. El resultado es una hamburguesa donde el sabor de la carne y el pan son los verdaderos protagonistas. Con locales en Pocitos, Punta Carretas, Carrasco y Centro, Rudy se ha convertido en una de las cadenas de hamburguesas más queridas de Montevideo. Las papas fritas y rústicas (especialmente las con cheddar) son el acompañamiento perfecto, y no te vayas sin probar sus postres. El equipo está formado por estudiantes universitarios, creando un ambiente joven y con buena energía. Delivery y takeaway disponible en todos los locales.
+La mejor hamburguesa de Montevideo, y te lo digo con total seguridad. Simple pero increíble — carne recién picada y pan de receta propia, sin estupideces encima. Las hamburguesas son grandes, nunca salís con hambre. Las papas rústicas con cheddar son obligatorias.
+
+Tienen descuento con ITAÚ, así que mejor todavía. Lo único que me rompe las pelotas es que el sistema de fidelización de Google Wallet (comprás X hamburguesas y te dan una gratis) solo funciona si comprás en el local — si pedís online, no cuenta. Una cagada, pero las hamburguesas lo valen.
+
+Cuatro locales: Pocitos, Punta Carretas, Carrasco y Centro. Delivery y takeaway en todos.
 
 ## Redes sociales
 

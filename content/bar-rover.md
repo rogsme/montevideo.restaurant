@@ -12,7 +12,7 @@ author: romi
 - 🌎 Direccion: [San Martín 3652](https://www.google.com/maps/place/Bar+Rover/@-34.8577211,-56.1763587,18.51z/data=!4m5!3m4!1s0x95a02a9ea73665db:0x734f53a4b7d5ab39!8m2!3d-34.8577376!4d-56.1758114)
 - 🕜 Horario: Todos los dias de 11:30hs a 01:00hs
 - 🤑 Forma de pago: Efectivo / POS
-- 🌐 Pagina web / Menu: https://www.barrover.com.uy/
+- 🌐 Pagina web / Menu: https://www.facebook.com/BarRover/
 
 ## Menu
 

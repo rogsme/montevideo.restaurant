@@ -13,10 +13,9 @@ tags: ["hamburguesa", "fritas", "milanesa", "pollo", "POS"]
   + Malvín (Salón + Delivery): [Avenida Italia 3952 esq. Monzón](https://www.google.com/maps/place/Av.+Italia+3952,+11400+Montevideo,+Departamento+de+Montevideo/@-34.8872114,-56.1259763,17z/data=!3m1!4b1!4m5!3m4!1s0x959f8127c51071ad:0xcce22aa6fa72748d!8m2!3d-34.8872114!4d-56.1259763)
   + Cordón (Delivery + Take Away): [Hipólito Yrigoyen 1728 bis](https://www.google.com/maps/search/Hip%C3%B3lito+Yrigoyen+1728+bis+Montevideo)
 - 🕜 Horario:
-  - 📅 Domingo - Lunes: 12:00hs - 00:00hs
+  - 📅 Lunes, Miercoles, Jueves y Domingo: 12:00hs - 00:00hs
+  - 📅 Viernes - Sabado: 12:00hs - 01:00hs
   - 📅 Martes: Cerrado
-  - 📅 Miércoles - Jueves: 12:00hs - 00:00hs
-  - 📅 Viernes - Sábado: 12:00hs - 01:00hs
 - 🤑 Forma de pago: Efectivo / POS
 - 🌐 Pagina web: https://valitoburgers.com.uy/
 

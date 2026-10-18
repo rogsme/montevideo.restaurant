@@ -15,18 +15,12 @@ author: roger-gonzalez
   + [Carrasco: Dr. Gabriel Otero 6437](https://www.google.com/maps/search/Rigor+Pizza+Dr+Gabriel+Otero+6437+Montevideo)
   + [Buceo: Av. Gral Rivera 4237](https://www.google.com/maps/search/Rigor+Pizza+Av+Gral+Rivera+4237+Montevideo)
   + [Las Piedras: Gral. Leandro Gómez 624](https://www.google.com/maps/search/Rigor+Pizza+Gral+Leandro+Gomez+624+Las+Piedras)
-- 🕜 Horario Centro / Punta Carretas:
-  + 📅 Lunes - Jueves: 18:30 - 01:00
-  + 📅 Viernes - Domingo: 11:30 - 15:00 y 18:30 - 01:00
-- 🕜 Horario Buceo:
-  + 📅 Lunes - Jueves: 18:30 - 00:00
-  + 📅 Viernes - Domingo: 11:30 - 15:00 y 18:30 - 00:00
-- 🕜 Horario Carrasco:
-  + 📅 Lunes - Martes: 11:30 - 19:30
-  + 📅 Miércoles - Domingo: 11:30 - 23:15
-- 🕜 Horario Las Piedras:
-  + 📅 Lunes, Jueves, Viernes y Sábados: 18:30 - 23:30
-  + 📅 Martes, Miércoles y Domingos: 18:30 - 23:00
+- 🕜 Horario (por local):
+  + 📅 Centro (Andes): Lunes - Jueves 18:30 - 01:00 · Viernes - Domingo 11:30 - 15:00 y 18:30 - 01:00
+  + 📅 Punta Carretas (Mora): Lunes - Jueves 18:30 - 01:00 · Viernes - Domingo 11:30 - 15:00 y 18:30 - 01:00
+  + 📅 Buceo: Lunes - Jueves 18:30 - 00:00 · Viernes 11:30 - 15:00 y 18:30 - 00:00 · Sábado - Domingo 11:30 - 15:00 y 18:30 - 01:00
+  + 📅 Carrasco: Lunes 11:30 - 19:30 · Martes - Viernes 11:30 - 00:00 · Sábado 11:30 - 01:00 · Domingo 11:30 - 23:45
+  + 📅 Las Piedras: Lunes, Jueves, Viernes y Sábado 18:30 - 23:30 · Martes, Miércoles y Domingo 18:30 - 23:00
 - 🤑 Forma de pago: Efectivo / POS / MercadoPago
 - 🌐 Pagina web / Menu: https://rigorpizza.com/
 

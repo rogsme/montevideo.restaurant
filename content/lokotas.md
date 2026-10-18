@@ -27,7 +27,6 @@ author: roger-gonzalez
   + 📅 Domingos: 19:00 - 24:00
 - 🕜 Horario Malvín:
   + 📅 Lunes - Miércoles: 10:00 - 15:00 y 18:00 - 00:00
-  + 📅 Jueves: Cerrado
   + 📅 Viernes - Sábado: 10:00 - 15:30 y 18:00 - 00:00
   + 📅 Domingos: 18:00 - 00:00
 - 🤑 Forma de pago: Efectivo / POS / Tarjeta

@@ -14,10 +14,11 @@ tags: ['mexicano', 'nachos', 'fritas', 'vegano', 'vegetariano', 'hamburguesa', '
   + Prado: [Cubo del Norte 3847](https://www.google.com/maps/search/Cubo+del+Norte+3847+Montevideo)
 - 🕜 Horario: Todos los días de 12:00 a 00:00hs
 - 🤑 Forma de pago: Efectivo / POS
+- 🌐 Pagina web: https://lachingada.uy/
 
 ## Descripción
 
-La mejor comida mexicana de Montevideo, y no lo digo yo solo: está rankeada #11 de más de 900 restaurantes en Montevideo en TripAdvisor. Los tacos, burritos, quesadillas y nachos están muy buenos, todo fresco y con sabor auténtico. Tienen dos locales: el de Punta Carretas es una casona estilo mexicano con opción de terraza, y el del Prado es un vivero-cantina súper mágico rodeado de plantas. Para los amantes de la comida mexicana, es una visita obligada.
+La mejor comida mexicana de Montevideo, y no lo digo yo solo: está rankeada #14 de más de 1.000 restaurantes en Montevideo en TripAdvisor. Los tacos, burritos, quesadillas y nachos están muy buenos, todo fresco y con sabor auténtico. Tienen dos locales: el de Punta Carretas es una casona estilo mexicano con opción de terraza, y el del Prado es un vivero-cantina súper mágico rodeado de plantas. Para los amantes de la comida mexicana, es una visita obligada.
 
 ## Redes sociales
 

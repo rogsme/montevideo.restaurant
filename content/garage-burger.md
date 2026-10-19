@@ -14,14 +14,14 @@ author: roger-gonzalez
 - 🌎 Direccion: 
   + Punta Carretas: [Zorrilla de San Martín 285](https://www.google.com/maps/search/Garage+Burger+Zorrilla+de+San+Mart%C3%ADn+285+Montevideo)
   + Carrasco: [Costa Rica 1683](https://www.google.com/maps/place/Garage+Burger+Carrasco/@-34.8860891,-56.0591048,17z/data=!3m1!4b1!4m5!3m4!1s0x959f8724ef2bb7eb:0xf7d318c6f2deb9d2!8m2!3d-34.8860891!4d-56.0569161)
-- 🕜 Horario:
-  + Punta Carretas:
-    - 📅 Lunes - Jueves: 19:30 - 00:00
-    - 📅 Viernes - Sabado: 12:00 - 16:00 y 19:30 - 01:00
-    - 📅 Domingo: 12:00 - 16:00 y 19:30 - 00:00
-  + Carrasco:
-    - 📅 Lunes - Sabado: 12:00 - 16:00 y 19:30 - 01:00
-    - 📅 Domingo: 11:30 - 15:30 y 19:30 - 00:00
+- 🕜 Horario Punta Carretas:
+  + 📅 Lunes - Jueves: 19:30 - 00:00
+  + 📅 Viernes - Sabado: 12:00 - 16:00 y 19:30 - 01:00
+  + 📅 Domingo: 12:00 - 16:00 y 19:30 - 00:00
+- 🕜 Horario Carrasco:
+  + 📅 Lunes: Cerrado
+  + 📅 Martes - Viernes: 19:30 - 00:00
+  + 📅 Sabado - Domingo: 11:30 - 15:30 y 19:30 - 00:00
 - 🤑 Forma de pago: Efectivo / POS
 - 🌐 Pagina web / Menu: https://www.garageburger.com.uy/
 

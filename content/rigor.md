@@ -14,11 +14,13 @@ author: roger-gonzalez
   + [Punta Carretas: Cnel. Mora 597](https://www.google.com/maps/search/Rigor+Pizza+Cnel+Mora+597+Montevideo)
   + [Carrasco: Dr. Gabriel Otero 6437](https://www.google.com/maps/search/Rigor+Pizza+Dr+Gabriel+Otero+6437+Montevideo)
   + [Buceo: Av. Gral Rivera 4237](https://www.google.com/maps/search/Rigor+Pizza+Av+Gral+Rivera+4237+Montevideo)
-  + [Las Piedras: Gral. Leandro Gómez 624 bis](https://www.google.com/maps/search/Rigor+Pizza+Gral+Leandro+Gomez+624+Las+Piedras)
-- 🕜 Horario (varía según el local):
-  + 📅 Lunes - Jueves: 18:30 - 01:00
-  + 📅 Viernes - Sábado: 11:30 - 15:30 y 18:30 - 02:00
-  + 📅 Domingo: 11:30 - 01:00
+  + [Las Piedras: Gral. Leandro Gómez 624](https://www.google.com/maps/search/Rigor+Pizza+Gral+Leandro+Gomez+624+Las+Piedras)
+- 🕜 Horario (por local):
+  + 📅 Centro (Andes): Lunes - Jueves 18:30 - 01:00 · Viernes - Domingo 11:30 - 15:00 y 18:30 - 01:00
+  + 📅 Punta Carretas (Mora): Lunes - Jueves 18:30 - 01:00 · Viernes - Domingo 11:30 - 15:00 y 18:30 - 01:00
+  + 📅 Buceo: Lunes - Jueves 18:30 - 00:00 · Viernes 11:30 - 15:00 y 18:30 - 00:00 · Sábado - Domingo 11:30 - 15:00 y 18:30 - 01:00
+  + 📅 Carrasco: Lunes 11:30 - 19:30 · Martes - Viernes 11:30 - 00:00 · Sábado 11:30 - 01:00 · Domingo 11:30 - 23:45
+  + 📅 Las Piedras: Lunes, Jueves, Viernes y Sábado 18:30 - 23:30 · Martes, Miércoles y Domingo 18:30 - 23:00
 - 🤑 Forma de pago: Efectivo / POS / MercadoPago
 - 🌐 Pagina web / Menu: https://rigorpizza.com/
 

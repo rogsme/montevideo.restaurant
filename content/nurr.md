@@ -14,7 +14,8 @@ author: roger-gonzalez
   + [Gabriel A. Pereira 3179 (esq. 26 de Marzo), Pocitos](https://www.google.com/maps/search/Nurr+Shawarma+Gabriel+Pereira+3179+Montevideo)
 - 🕜 Horario:
   + 📅 Lunes: Cerrado
-  + 📅 Martes - Domingo: 12:30 - 23:00
+  + 📅 Martes - Sábado: 12:30 - 23:30
+  + 📅 Domingo: 12:30 - 23:00
 - 🤑 Forma de pago: Efectivo y transferencia bancaria (NO acepta tarjetas)
 
 ## Descripción

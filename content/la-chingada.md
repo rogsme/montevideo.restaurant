@@ -16,6 +16,26 @@ tags: ['mexicano', 'nachos', 'fritas', 'vegano', 'vegetariano', 'hamburguesa', '
 - 🤑 Forma de pago: Efectivo / POS
 - 🌐 Pagina web: https://lachingada.uy/
 
+## Menu
+
+[![la-chingada-menu-01](/pix/la-chingada-menu-01.webp)](/pix/la-chingada-menu-01.webp)
+
+[![la-chingada-menu-02](/pix/la-chingada-menu-02.webp)](/pix/la-chingada-menu-02.webp)
+
+[![la-chingada-menu-03](/pix/la-chingada-menu-03.webp)](/pix/la-chingada-menu-03.webp)
+
+[![la-chingada-menu-04](/pix/la-chingada-menu-04.webp)](/pix/la-chingada-menu-04.webp)
+
+[![la-chingada-menu-05](/pix/la-chingada-menu-05.webp)](/pix/la-chingada-menu-05.webp)
+
+[![la-chingada-menu-06](/pix/la-chingada-menu-06.webp)](/pix/la-chingada-menu-06.webp)
+
+[![la-chingada-menu-07](/pix/la-chingada-menu-07.webp)](/pix/la-chingada-menu-07.webp)
+
+[![la-chingada-menu-08](/pix/la-chingada-menu-08.webp)](/pix/la-chingada-menu-08.webp)
+
+[![la-chingada-menu-09](/pix/la-chingada-menu-09.webp)](/pix/la-chingada-menu-09.webp)
+
 ## Descripción
 
 La mejor comida mexicana de Montevideo, y no lo digo yo solo: está rankeada #14 de más de 1.000 restaurantes en Montevideo en TripAdvisor. Los tacos, burritos, quesadillas y nachos están muy buenos, todo fresco y con sabor auténtico. Tienen dos locales: el de Punta Carretas es una casona estilo mexicano con opción de terraza, y el del Prado es un vivero-cantina súper mágico rodeado de plantas. Para los amantes de la comida mexicana, es una visita obligada.
